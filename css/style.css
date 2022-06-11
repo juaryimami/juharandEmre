@@ -1,0 +1,15 @@
+body{
+    margin: auto
+}
+
+#main {
+    background-color: lightgray;
+    margin: auto;
+    text-align: center;
+}
+
+#img-div {
+    width: %80;
+    align: center;
+    background-color: white;
+}
